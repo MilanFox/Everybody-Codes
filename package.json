@@ -3,6 +3,9 @@
   "name": "everybody-codes",
   "license": "MIT",
   "type": "module",
+  "scripts": {
+    "quest": "deno --allow-read src/$npm_config_year/quest_$npm_config_quest.ts"
+  },
   "devDependencies": {
     "@types/node": "^22.9.0"
   }
