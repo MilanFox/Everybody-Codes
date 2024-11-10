@@ -11,7 +11,7 @@ This repository is for educational purposes and to share my approach to solving 
 challenges. Feel free to explore, modify, and use any code you find here for your own learning and
 projects.
 
-## ⚙️ [2023](https://adventofcode.com/2023) ![](https://progress-bar.xyz/42?scale=49&suffix=/49)
+## ⚙️ [2024](https://everybody.codes/event/2024/quests) ![](https://progress-bar.xyz/3?scale=60&suffix=/60)
 
 [![](https://img.shields.io/badge/Quest_01-★★★-gold)](https://github.com/MilanFox/Everybody-Codes/blob/main/src/2024/quest_01.mjs)
 [![](https://img.shields.io/badge/Quest_02-☆☆☆-black)](https://github.com/MilanFox/Everybody-Codes/blob/main/src/2024/quest_02.mjs)
