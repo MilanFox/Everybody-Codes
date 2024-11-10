@@ -16,7 +16,6 @@ const getNeededPotions = (groupSize: number) => {
       return enemies.reduce((acc, cur) => acc + potionRequirement[cur] + extraCost, 0);
     })
     .reduce((acc, cur) => acc + cur, 0);
-
 };
 
 console.log(`Round 1: ${getNeededPotions(1)}`);
