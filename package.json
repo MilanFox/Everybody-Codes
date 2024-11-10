@@ -1,0 +1,9 @@
+{
+  "author": "Milan Fox",
+  "name": "everybody-codes",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^22.9.0"
+  }
+}
