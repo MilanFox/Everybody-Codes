@@ -7,6 +7,12 @@ To run the solutions, follow these steps:
 1. Provide your own `input.txt` file. This input file is not shared in the repository due to Advent of Code's rules.
 2. Use your preferred JavaScript runtime (TS-Node, Deno, etc.) to execute the file. All should work without any issues.
 
+In case you are using Deno to execute your TS files, there is an npm script fpr quickly running the files:
+
+```shell
+npm run quest --year=2024 --quest=01
+```
+
 This repository is for educational purposes and to share my approach to solving the Advent of Code
 challenges. Feel free to explore, modify, and use any code you find here for your own learning and
 projects.
